@@ -6,3 +6,4 @@ data/raw
 data/README.md
 docs/README.md
 results/README.md
+data/processed/scores.csv
