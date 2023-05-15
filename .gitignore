@@ -1,0 +1,8 @@
+*.egg-info
+data/interim
+data/processed/*.pkl
+data/processed/*optimization_results.csv
+data/raw
+data/README.md
+docs/README.md
+results/README.md
